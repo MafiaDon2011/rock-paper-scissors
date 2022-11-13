@@ -3,3 +3,5 @@ Fancy a game? Or rather, want to play a JavaScript browser version of Rock Paper
 
 ![Alt text](rock-paper-scissors%20screenshot.png "Screenshot of the Rock Paper Scissors page game running on Google Chrome browser")
 >Screenshot of the Rock Paper Scissors page game running on a Google Chrome browser.
+
+Preview It Here: https://renlumfao.com/rockpaperscissors-project.html
